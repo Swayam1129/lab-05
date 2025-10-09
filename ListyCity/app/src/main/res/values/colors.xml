@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="pastelPurple">#C3B1E1</color>
+    <color name="BrightPurple">#BF40BF</color>
+    <color name="Orchid">#DA70D6</color>
 </resources>
