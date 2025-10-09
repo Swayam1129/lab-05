@@ -2,8 +2,9 @@
 
 ## Student Details
 
-- **Full Name:** ## Swayam Sagar
-- **CCID:** ## swayam2
+- **Full Name:** **swayam Sagar**
+- **CCID:** **swayam2**
+  
 
 ## References and Resources
 
